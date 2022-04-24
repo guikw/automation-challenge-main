@@ -1,0 +1,8 @@
+{
+  "env": {
+  "baseUrl": "http://localhost:8080",
+  "UrlSection1": "http://localhost:8080/section-1",
+  "UrlSection2": "http://localhost:8080/section-2"
+  }
+}
+
